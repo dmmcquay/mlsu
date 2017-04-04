@@ -25,3 +25,4 @@ _testmain.go
 
 *.pdf
 *.swp
+*.DS_STORE
